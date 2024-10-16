@@ -1,0 +1,10 @@
+CUE: EL SITIO ADMINISTRATIVO DE DJANGO I 
+DRILLING: MANIPULACIÓN DEL PANEL ADMINISTRATIVO DE DJANGO
+Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE: El Sitio 
+Administrativo de Django I.
+EJERCICIO:
+Para esta revisión práctica del sitio de administración de Django se debe:
+• Habilitar los campos fecha_creacion y fecha_modificacion, y que sean de solo lectura al visualizar 
+un determinado libro.
+• Visualizar el título, valor y valoración respectivamente.
+• Agregar un filtro según la valoración, y la fecha de modificación
